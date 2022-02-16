@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-884-complex-digital-systems-spring-2005/4c59e2adc9e7031e4e8c9acc31e8327e_quiz_studyguide.pdf
+file: /media/courses/6-884-complex-digital-systems-spring-2005/4c59e2adc9e7031e4e8c9acc31e8327e_quiz_studyguide.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: quiz_studyguide.pdf
 uid: 4c59e2ad-c9e7-031e-4e8c-9acc31e8327e
