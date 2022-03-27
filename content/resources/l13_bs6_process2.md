@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: bf521edb-e22c-64b6-19de-04a7df079397
 resourcetype: Document
 title: l13_bs6_process2.pdf
 uid: c7c3145a-553f-21f2-12ec-88cf3cef8920

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: db582854-aa03-8acb-a0d2-5a5ef4590f24
 resourcetype: Document
 title: verilog_2k1paper.pdf
 uid: ee377113-67b2-e58e-4df2-f056a0d8e619

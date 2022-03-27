@@ -15,6 +15,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: bf521edb-e22c-64b6-19de-04a7df079397
 resourcetype: Document
 title: t02_verilog_tut.pdf
 uid: 42da3ce9-6010-a59f-449d-a886e13685c0

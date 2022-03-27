@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: bf521edb-e22c-64b6-19de-04a7df079397
 resourcetype: Document
 title: l05_synthesis.pdf
 uid: cd0e615c-3efb-d1ef-22ee-9330075035f2

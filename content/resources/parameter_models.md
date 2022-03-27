@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: db582854-aa03-8acb-a0d2-5a5ef4590f24
 resourcetype: Document
 title: parameter_models.pdf
 uid: c1d1da93-0a5e-21e9-76df-668165e79b59

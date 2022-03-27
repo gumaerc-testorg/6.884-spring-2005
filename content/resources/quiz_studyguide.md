@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 31bdfd85-f463-3b91-caba-41a8e10b9372
 resourcetype: Document
 title: quiz_studyguide.pdf
 uid: 4c59e2ad-c9e7-031e-4e8c-9acc31e8327e
