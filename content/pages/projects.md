@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The project section contains a list of recent student project topics
+  for students to develop a project completely on their own.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

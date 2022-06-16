@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-884-complex-digital-systems-spring-2005/4c59e2adc9e7031e4e8c9acc31e8327e_quiz_studyguide.pdf
+file: /courses/6-884-complex-digital-systems-spring-2005/4c59e2adc9e7031e4e8c9acc31e8327e_quiz_studyguide.pdf
 file_type: application/pdf
 learning_resource_types:
 - Exams

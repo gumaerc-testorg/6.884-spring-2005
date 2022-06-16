@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The calendar section provides information on the course's lectures, tutorials,
+  quizzes and project sessions in a table listing topics and keydates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
