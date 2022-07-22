@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Related Resources
+parent_type: CourseSection
 parent_uid: db582854-aa03-8acb-a0d2-5a5ef4590f24
 title: Online Links
 uid: ac4c79ce-e71e-7977-3923-e8e740ab7d79

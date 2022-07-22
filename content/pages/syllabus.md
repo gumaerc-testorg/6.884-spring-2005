@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: The syllabus section covers prerequisites of the course, lectures and
+  tutorials, grading table, lab assignments, quizzes, final project, engineering design
+  points, computer lab, collaboration and academic honesty policy, course reading
+  material, computer communication and technical qualifying examination information.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 5d987861-bff6-5ec8-34c2-5c61e722505b
 ---
@@ -81,7 +87,7 @@ Final Completed Project
 Lab Assignments
 ---------------
 
-There will be 3 to 5 labs all due before the first quiz. These labs are designed to help you learn the skills you'll need to complete the final project. Some of the labs are probably too long to be done the night before the due date, so plan accordingly. Late labs will not be accepted. See the [calendar]({{< baseurl >}}/pages/calendar) for details on when labs are due. Feel free to get help from others, but the work you hand in should be your own.
+There will be 3 to 5 labs all due before the first quiz. These labs are designed to help you learn the skills you'll need to complete the final project. Some of the labs are probably too long to be done the night before the due date, so plan accordingly. Late labs will not be accepted. See the {{% resource_link 66d6db4a-d9de-0386-3063-e4d902c6ff71 "calendar" %}} for details on when labs are due. Feel free to get help from others, but the work you hand in should be your own.
 
 Quizzes
 -------
@@ -111,7 +117,7 @@ Students must not discuss a quiz's contents with other students who have not yet
 Course Reading Material
 -----------------------
 
-There is no text book for the course. Books and links which would provide useful reference are listed on the [readings]({{< baseurl >}}/pages/readings) and [related resources]({{< baseurl >}}/pages/related-resources) sections.
+There is no text book for the course. Books and links which would provide useful reference are listed on the {{% resource_link d3496f20-9ec6-e3c6-29ff-24dfbaffa0b1 "readings" %}} and {{% resource_link db582854-aa03-8acb-a0d2-5a5ef4590f24 "related resources" %}} sections.
 
 Computer Communication
 ----------------------

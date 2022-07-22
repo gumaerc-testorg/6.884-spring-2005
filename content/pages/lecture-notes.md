@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: The lecture notes section contains table listing information about the
+  topics for the course's lectures and tutorials.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: bf521edb-e22c-64b6-19de-04a7df079397
 ---
@@ -24,7 +29,7 @@ Topics
 L1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction ([PDF - 1.7 MB]({{< baseurl >}}/resources/l01_intro))
+Introduction ({{% resource_link 904891a5-ee4b-2511-c112-7ed1ede8930d "PDF - 1.7 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -33,7 +38,7 @@ Introduction ([PDF - 1.7 MB]({{< baseurl >}}/resources/l01_intro))
 L2
 {{< tdclose >}}
 {{< tdopen >}}
-Digital Design Using Verilog ([PDF]({{< baseurl >}}/resources/l02_verilog))
+Digital Design Using Verilog ({{% resource_link c5c8a25b-3754-dc4f-302f-b9abcfdc8a21 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +47,7 @@ Digital Design Using Verilog ([PDF]({{< baseurl >}}/resources/l02_verilog))
 L3
 {{< tdclose >}}
 {{< tdopen >}}
-CMOS Technology and Logic Gates ([PDF - 2.4 MB]({{< baseurl >}}/resources/l03_cmos_gates))
+CMOS Technology and Logic Gates ({{% resource_link 5db68ba6-abd1-00ec-c232-604ccfeb9f46 "PDF - 2.4 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,7 +56,7 @@ CMOS Technology and Logic Gates ([PDF - 2.4 MB]({{< baseurl >}}/resources/l03_cm
 T1
 {{< tdclose >}}
 {{< tdopen >}}
-Verilog Simulation I ([PDF]({{< baseurl >}}/resources/t01_verilog_tut))
+Verilog Simulation I ({{% resource_link c836d849-fa4e-f5ee-c978-7f7bbee799d9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +65,7 @@ Verilog Simulation I ([PDF]({{< baseurl >}}/resources/t01_verilog_tut))
 L4
 {{< tdclose >}}
 {{< tdopen >}}
-Wires ([PDF - 1.4 MB]({{< baseurl >}}/resources/l04_wires))
+Wires ({{% resource_link fd75994e-0ea8-4378-705d-d12ee8c16326 "PDF - 1.4 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +74,7 @@ Wires ([PDF - 1.4 MB]({{< baseurl >}}/resources/l04_wires))
 L5
 {{< tdclose >}}
 {{< tdopen >}}
-Synthesis ([PDF]({{< baseurl >}}/resources/l05_synthesis))
+Synthesis ({{% resource_link cd0e615c-3efb-d1ef-22ee-9330075035f2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +83,7 @@ Synthesis ([PDF]({{< baseurl >}}/resources/l05_synthesis))
 T2
 {{< tdclose >}}
 {{< tdopen >}}
-Verilog Simulation II ([PDF]({{< baseurl >}}/resources/t02_verilog_tut))
+Verilog Simulation II ({{% resource_link 42da3ce9-6010-a59f-449d-a886e13685c0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -87,7 +92,7 @@ Verilog Simulation II ([PDF]({{< baseurl >}}/resources/t02_verilog_tut))
 L6
 {{< tdclose >}}
 {{< tdopen >}}
-Clocking ([PDF]({{< baseurl >}}/resources/l06_clocks))
+Clocking ({{% resource_link 6532a355-51bb-8707-fa01-7de5e53c66c7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -96,7 +101,7 @@ Clocking ([PDF]({{< baseurl >}}/resources/l06_clocks))
 L7
 {{< tdclose >}}
 {{< tdopen >}}
-Bluespec I: Motivation ([PDF]({{< baseurl >}}/resources/l07bs1motivation2up))
+Bluespec I: Motivation ({{% resource_link fd77fcb0-11c7-8146-f5f8-3c32e1a858d0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +110,7 @@ Bluespec I: Motivation ([PDF]({{< baseurl >}}/resources/l07bs1motivation2up))
 L8
 {{< tdclose >}}
 {{< tdopen >}}
-Bluespec II: Designing with Rules ([PDF]({{< baseurl >}}/resources/l08_bs2_design))
+Bluespec II: Designing with Rules ({{% resource_link 47f1dbef-721a-415b-de32-c65e6cd976fe "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -114,7 +119,7 @@ Bluespec II: Designing with Rules ([PDF]({{< baseurl >}}/resources/l08_bs2_desig
 L9
 {{< tdclose >}}
 {{< tdopen >}}
-Bluespec III: Modules and Interfaces ([PDF]({{< baseurl >}}/resources/l09_bs3_modules))
+Bluespec III: Modules and Interfaces ({{% resource_link bfc00da8-1b59-c827-5b48-ab0268731a20 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -123,7 +128,7 @@ Bluespec III: Modules and Interfaces ([PDF]({{< baseurl >}}/resources/l09_bs3_mo
 L10
 {{< tdclose >}}
 {{< tdopen >}}
-Bluespec IV: Rule Scheduling and Synthesis ([PDF]({{< baseurl >}}/resources/l10_bs4synthesis))
+Bluespec IV: Rule Scheduling and Synthesis ({{% resource_link 57d53837-504f-a9d0-c9b9-0de4be0dfdc2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -132,7 +137,7 @@ Bluespec IV: Rule Scheduling and Synthesis ([PDF]({{< baseurl >}}/resources/l10_
 T3
 {{< tdclose >}}
 {{< tdopen >}}
-Bluespec ([PDF]({{< baseurl >}}/resources/t03_bluespec))
+Bluespec ({{% resource_link 01e06522-cd4a-b035-dbbb-d38279045351 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -141,7 +146,7 @@ Bluespec ([PDF]({{< baseurl >}}/resources/t03_bluespec))
 L11
 {{< tdclose >}}
 {{< tdopen >}}
-Power ([PDF]({{< baseurl >}}/resources/l11_power))
+Power ({{% resource_link a5b7f726-87b2-d269-fed6-47330d539f48 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -150,7 +155,7 @@ Power ([PDF]({{< baseurl >}}/resources/l11_power))
 L12
 {{< tdclose >}}
 {{< tdopen >}}
-Bluespec V: Processors ([PDF]({{< baseurl >}}/resources/l12_bs5_process))
+Bluespec V: Processors ({{% resource_link 36195ee1-5701-b432-a980-ed583ed4341c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -159,7 +164,7 @@ Bluespec V: Processors ([PDF]({{< baseurl >}}/resources/l12_bs5_process))
 L13
 {{< tdclose >}}
 {{< tdopen >}}
-Bluespec VI: Modularity and Performance ([PDF]({{< baseurl >}}/resources/l13_bs6_process2))
+Bluespec VI: Modularity and Performance ({{% resource_link c7c3145a-553f-21f2-12ec-88cf3cef8920 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -168,7 +173,7 @@ Bluespec VI: Modularity and Performance ([PDF]({{< baseurl >}}/resources/l13_bs6
 L14
 {{< tdclose >}}
 {{< tdopen >}}
-Transaction Level Design and Verification ([PDF]({{< baseurl >}}/resources/l14_utl))
+Transaction Level Design and Verification ({{% resource_link 51647b25-1929-16a0-5487-94c5b19d02f3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -177,7 +182,7 @@ Transaction Level Design and Verification ([PDF]({{< baseurl >}}/resources/l14_u
 L15
 {{< tdclose >}}
 {{< tdopen >}}
-Testing ([PDF]({{< baseurl >}}/resources/l15_testing))
+Testing ({{% resource_link 3e7ffaaf-2b67-57c9-6d43-7b85dbbd78c9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

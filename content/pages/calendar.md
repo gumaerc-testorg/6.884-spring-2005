@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The calendar section provides information on the course's lectures, tutorials,
+  quizzes and project sessions in a table listing topics and keydates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 66d6db4a-d9de-0386-3063-e4d902c6ff71
 ---

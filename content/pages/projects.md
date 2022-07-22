@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: The project section contains a list of recent student project topics
+  for students to develop a project completely on their own.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 6b865a04-2e64-62e2-8792-dc3c49569b13
 ---
