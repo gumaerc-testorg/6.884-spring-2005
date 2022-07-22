@@ -6,6 +6,7 @@ file: /courses/6-884-complex-digital-systems-spring-2005/96dfdea3c2188954d0d6d43
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: l07_bs1_motiv.pdf
 uid: 96dfdea3-c218-8954-d0d6-d43272c91058
 ---
 This file contains lecture on bluespec I: motivation with the help of slides.
-

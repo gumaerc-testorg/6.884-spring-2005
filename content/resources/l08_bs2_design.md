@@ -6,6 +6,7 @@ file: /courses/6-884-complex-digital-systems-spring-2005/47f1dbef721a415bde32c65
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: l08_bs2_design.pdf
 uid: 47f1dbef-721a-415b-de32-c65e6cd976fe
 ---
 The file contains lecture on bluespec II: designing with rules with the help slides.
-

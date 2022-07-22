@@ -6,6 +6,7 @@ file: /courses/6-884-complex-digital-systems-spring-2005/471f44763de6932e7f2de76
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lab3.pdf
 uid: 471f4476-3de6-932e-7f2d-e76feedf5ae1
 ---
 This file contains information about lab assignment in which student would use Bluespec system verilog to design a simple network linecard.
-

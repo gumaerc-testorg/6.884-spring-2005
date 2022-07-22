@@ -5,6 +5,7 @@ file: /courses/6-884-complex-digital-systems-spring-2005/6532a35551bb8707fa017de
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: l06_clocks.pdf
 uid: 6532a355-51bb-8707-fa01-7de5e53c66c7
 ---
 This file contains lecture on clocking including elements and conventions.
-

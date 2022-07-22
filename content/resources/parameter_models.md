@@ -9,6 +9,7 @@ description: 'This file contains information on techniques for coding proper par
 file: /courses/6-884-complex-digital-systems-spring-2005/c1d1da930a5e21e976df668165e79b59_parameter_models.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
@@ -19,4 +20,3 @@ uid: c1d1da93-0a5e-21e9-76df-668165e79b59
 ---
 This file contains information on techniques for coding proper parameterized models, differences between parameters and macro definitions, present guidelines for
 using macros, parameters and parameter definitions, discourage the use of defparams and Verilog-2001 enhancements to enhance coding and usage of parameterized models.
-

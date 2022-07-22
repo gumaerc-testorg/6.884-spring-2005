@@ -12,6 +12,7 @@ file: /courses/6-884-complex-digital-systems-spring-2005/42da3ce96010a59f449da88
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -24,4 +25,3 @@ This file contains tutorial on CVS source management system focussing on browsin
 - Writing SMIPS assembly
 - Using the SMIPS disassembler
 - Using trace output instead of waveforms
-
