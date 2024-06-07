@@ -5,6 +5,7 @@ description: This file contains quality of design, system-level impacts, digital
   fabrication, etching, multiple levels of interconnect, design rules, lambda-based
   design rules and other details regarding gate.
 file: /courses/6-884-complex-digital-systems-spring-2005/5db68ba6abd100ecc232604ccfeb9f46_l03_cmos_gates.pdf
+file_size: 2536191
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
