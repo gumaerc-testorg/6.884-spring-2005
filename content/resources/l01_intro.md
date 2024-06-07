@@ -4,6 +4,7 @@ description: This file contains lecture by Arvind and Krste Asanovic on modern d
   systems engineering along with objectives, prerequisites, structure, project, grade
   breakdown and other details.
 file: /courses/6-884-complex-digital-systems-spring-2005/904891a5ee4b2511c1127ed1ede8930d_l01_intro.pdf
+file_size: 1749285
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
