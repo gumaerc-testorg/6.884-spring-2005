@@ -9,6 +9,7 @@ description: 'This file contains tutorial on CVS source management system focuss
 
   - Using trace output instead of waveforms'
 file: /courses/6-884-complex-digital-systems-spring-2005/42da3ce96010a59f449da886e13685c0_t02_verilog_tut.pdf
+file_size: 162064
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -3,6 +3,7 @@ content_type: resource
 description: 'This file contains lecture on bluespec V: processors with the help of
   slides.'
 file: /courses/6-884-complex-digital-systems-spring-2005/36195ee15701b432a980ed583ed4341c_l12_bs5_process.pdf
+file_size: 123096
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
