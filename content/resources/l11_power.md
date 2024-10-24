@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains lecture on power covering details and slides related
   to it.
-file: /courses/6-884-complex-digital-systems-spring-2005/a5b7f72687b2d269fed647330d539f48_l11_power.pdf
+file: /ol-ocw-studio-app/courses/6-884-complex-digital-systems-spring-2005/a5b7f72687b2d269fed647330d539f48_l11_power.pdf
 file_size: 336348
 file_type: application/pdf
 learning_resource_types:
