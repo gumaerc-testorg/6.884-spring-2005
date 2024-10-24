@@ -5,7 +5,7 @@ description: 'This file contains lab assignment which has primary objective to i
   her some intuition into how high-level hardware descriptions are transformed into
 
   layout.'
-file: /courses/6-884-complex-digital-systems-spring-2005/0edb36d0521b1fe9982ea26ec11fb395_lab2.pdf
+file: /ol-ocw-studio-app/courses/6-884-complex-digital-systems-spring-2005/0edb36d0521b1fe9982ea26ec11fb395_lab2.pdf
 file_size: 399282
 file_type: application/pdf
 learning_resource_types:
