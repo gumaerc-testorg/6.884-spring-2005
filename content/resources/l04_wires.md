@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains lecture on wires, focussing on its properties, inter
   connected problems and solutions related to it.
-file: /ol-ocw-studio-app/courses/6-884-complex-digital-systems-spring-2005/fd75994e0ea84378705dd12ee8c16326_l04_wires.pdf
+file: /courses/6-884-complex-digital-systems-spring-2005/fd75994e0ea84378705dd12ee8c16326_l04_wires.pdf
 file_size: 1511168
 file_type: application/pdf
 learning_resource_types:
