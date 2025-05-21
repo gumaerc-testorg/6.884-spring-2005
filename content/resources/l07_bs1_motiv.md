@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains lecture on bluespec I: motivation with the help of
   slides.'
-file: /ol-ocw-studio-app/courses/6-884-complex-digital-systems-spring-2005/96dfdea3c2188954d0d6d43272c91058_l07_bs1_motiv.pdf
+file: /courses/6-884-complex-digital-systems-spring-2005/96dfdea3c2188954d0d6d43272c91058_l07_bs1_motiv.pdf
 file_size: 557947
 file_type: application/pdf
 learning_resource_types:

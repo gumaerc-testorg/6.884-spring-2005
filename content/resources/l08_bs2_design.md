@@ -2,7 +2,7 @@
 content_type: resource
 description: 'The file contains lecture on bluespec II: designing with rules with
   the help slides.'
-file: /ol-ocw-studio-app/courses/6-884-complex-digital-systems-spring-2005/47f1dbef721a415bde32c65e6cd976fe_l08_bs2_design.pdf
+file: /courses/6-884-complex-digital-systems-spring-2005/47f1dbef721a415bde32c65e6cd976fe_l08_bs2_design.pdf
 file_size: 304629
 file_type: application/pdf
 learning_resource_types:

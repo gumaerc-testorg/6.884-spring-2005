@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains lecture on synthesis: verilog - gates.'
-file: /ol-ocw-studio-app/courses/6-884-complex-digital-systems-spring-2005/cd0e615c3efbd1ef22ee9330075035f2_l05_synthesis.pdf
+file: /courses/6-884-complex-digital-systems-spring-2005/cd0e615c3efbd1ef22ee9330075035f2_l05_synthesis.pdf
 file_size: 289498
 file_type: application/pdf
 learning_resource_types:

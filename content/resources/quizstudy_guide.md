@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains list of topics to be covered in friday's quiz.
-file: /ol-ocw-studio-app/courses/6-884-complex-digital-systems-spring-2005/85bf3c37d9110dfa435c5ab69e698f25_quizstudy_guide.pdf
+file: /courses/6-884-complex-digital-systems-spring-2005/85bf3c37d9110dfa435c5ab69e698f25_quizstudy_guide.pdf
 file_size: 29516
 file_type: application/pdf
 learning_resource_types:

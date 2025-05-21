@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains lecture on bluespec III: modules and interfaces with
   the help of slides.'
-file: /ol-ocw-studio-app/courses/6-884-complex-digital-systems-spring-2005/bfc00da81b59c8275b48ab0268731a20_l09_bs3_modules.pdf
+file: /courses/6-884-complex-digital-systems-spring-2005/bfc00da81b59c8275b48ab0268731a20_l09_bs3_modules.pdf
 file_size: 177765
 file_type: application/pdf
 learning_resource_types:

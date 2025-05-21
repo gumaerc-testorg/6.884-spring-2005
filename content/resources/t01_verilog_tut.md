@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains lecture on tool flow For lab 1 and 2.
-file: /ol-ocw-studio-app/courses/6-884-complex-digital-systems-spring-2005/c836d849fa4ef5eec9787f7bbee799d9_t01_verilog_tut.pdf
+file: /courses/6-884-complex-digital-systems-spring-2005/c836d849fa4ef5eec9787f7bbee799d9_t01_verilog_tut.pdf
 file_size: 305967
 file_type: application/pdf
 learning_resource_types:

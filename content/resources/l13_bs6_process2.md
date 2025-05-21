@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains lecture on bluespec VI: modularity and performance
   with the help of slides.'
-file: /ol-ocw-studio-app/courses/6-884-complex-digital-systems-spring-2005/c7c3145a553f21f212ec88cf3cef8920_l13_bs6_process2.pdf
+file: /courses/6-884-complex-digital-systems-spring-2005/c7c3145a553f21f212ec88cf3cef8920_l13_bs6_process2.pdf
 file_size: 144164
 file_type: application/pdf
 learning_resource_types:
