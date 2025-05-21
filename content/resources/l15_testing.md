@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains lecture on verification versus manufacturing test.
-file: /ol-ocw-studio-app/courses/6-884-complex-digital-systems-spring-2005/3e7ffaaf2b6757c96d437b85dbbd78c9_l15_testing.pdf
+file: /courses/6-884-complex-digital-systems-spring-2005/3e7ffaaf2b6757c96d437b85dbbd78c9_l15_testing.pdf
 file_size: 285728
 file_type: application/pdf
 learning_resource_types:
