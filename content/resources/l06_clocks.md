@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains lecture on clocking including elements and conventions.
-file: /courses/6-884-complex-digital-systems-spring-2005/6532a35551bb8707fa017de5e53c66c7_l06_clocks.pdf
+file: /ol-ocw-studio-app/courses/6-884-complex-digital-systems-spring-2005/6532a35551bb8707fa017de5e53c66c7_l06_clocks.pdf
 file_size: 220252
 file_type: application/pdf
 learning_resource_types:
