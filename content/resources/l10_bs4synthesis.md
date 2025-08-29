@@ -2,7 +2,7 @@
 content_type: resource
 description: 'this file contains lecture on bluespec IV: rule scheduling and synthesis
   with the help of slides.'
-file: /courses/6-884-complex-digital-systems-spring-2005/57d53837504fa9d0c9b90de4be0dfdc2_l10_bs4synthesis.pdf
+file: /ol-ocw-studio-app/courses/6-884-complex-digital-systems-spring-2005/57d53837504fa9d0c9b90de4be0dfdc2_l10_bs4synthesis.pdf
 file_size: 231141
 file_type: application/pdf
 learning_resource_types:
